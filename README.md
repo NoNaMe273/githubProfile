@@ -1,4 +1,4 @@
-<h1 align="center">Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is NoNaMe273 <br></h1>
+<h1 align="center">Hi!<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32"/> My name is NoNaMe273</h1>
 java developer<br>
 I'm a first-year college student who has been studying programming for eight years. <br>
 * 🌍 I'm based in Russia<br>
