@@ -1,45 +1,11 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=F89820&center=true&vCenter=true&random=false&width=600&lines=Java+Backend+Developer;Fullstack+enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is NoNaMe273 ================================================================================================================================== java developer -------------- I'm a first-year college student who has been studying programming for eight years. * 🌍 I'm based in Russia * ✉️ You can contact me at [mogilevzeka@gmail.com](mailto:mogilevzeka@gmail.com) * 🧠 I'm currently learning advanced java level * 💬 Ask me about I'm actually Spider-Man, but don't tell anyone
 
-<h1 align="center">Привет, я <span style="color:#f89820">Miroshka</span> 👋</h1>
+<p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a> </p>
+### Socials <p align="left"> <a href="https://www.github.com/noname283" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+### Badges
 
-## 💼 Обо мне
+<b>My GitHub Stats</b>
 
-- 🔭 Разрабатываю высоконагруженные микросервисы и распределенные системы на Java
-- 🌱 Погружен в Java-экосистему и постоянно изучаю новые технологии
-- 🚀 Стремлюсь к написанию чистого, эффективного и масштабируемого кода
-- 💡 Люблю решать сложные алгоритмические задачи
-- 📚 Постоянно улучшаю свои навыки и делюсь опытом
+<a href="http://www.github.com/noname283"><img src="https://github-readme-stats.vercel.app/api?username=noname283&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="noname283's GitHub stats" /></a>
 
-## 🛠️ Мой технологический стек
-
-#### ☕ Java Ecosystem
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,junit" />
-
-#### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,elasticsearch" />
-
-#### 🔄 Message Brokers & Event Streaming
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
-
-#### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs,tailwind,js,html,css" />
-
-#### 🐳 DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,nginx,gcp" />
-
-#### 🔧 Tools & Environment
-<img src="https://skillicons.dev/icons?i=idea,git,github,postman,vim,bash,linux,nodejs,graphql,grafana" />
-
-## 🌐 Связаться со мной
-
-<div align="center">
-  <a href="https://t.me/miroshka000">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
-
-<p align="center">
-  <img width="600" src="Assets/github-snake.svg" alt="snake"/>
-</p>
+<a href="https://github.com/noname283" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noname283&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
