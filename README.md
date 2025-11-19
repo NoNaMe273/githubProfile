@@ -1,5 +1,10 @@
-##Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ##My name is NoNaMe273 
-java developer -------------- I'm a first-year college student who has been studying programming for eight years. * 🌍 I'm based in Russia * ✉️ You can contact me at [mogilevzeka@gmail.com](mailto:mogilevzeka@gmail.com) * 🧠 I'm currently learning advanced java level * 💬 Ask me about I'm actually Spider-Man, but don't tell anyone
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is NoNaMe273 <br>
+java developer<br>
+I'm a first-year college student who has been studying programming for eight years. <br>
+* 🌍 I'm based in Russia<br>
+* ✉️ You can contact me at [mogilevzeka@gmail.com](mailto:mogilevzeka@gmail.com)<br>
+* 🧠 I'm currently learning advanced java level<br>
+* 💬 Ask me about I'm actually Spider-Man, but don't tell anyone<br>
 
 <p align="left"> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
